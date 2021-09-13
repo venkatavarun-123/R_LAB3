@@ -1,8 +1,3 @@
-[
-  {
-    "yaml": [
-      "language:r", 
-      "cache:packages"
-    ]
-  }
-]
+-yaml:
+      -language:r
+      -cache:packages
